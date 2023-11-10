@@ -1,0 +1,182 @@
+[
+	{
+		"xws": "padawanahsokatano",
+		"sku": "SWK07",
+		"name_en": "Padawan Ahsoka Tano",
+		"name_fr": "Padawan Ahsoka Tano",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "initiationkit",
+		"sku": "SWK09",
+		"name_en": "Initiation Kit",
+		"name_fr": "Kit d'initiation",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "coreset",
+		"sku": "SWP01",
+		"name-en": "Core Set",
+		"name-fr": "Boîte de base",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "highground",
+		"sku": "SWP02",
+		"name_en": "High Ground",
+		"name_fr": "Terrain surélevé",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "twicethepride",
+		"sku": "SWP03",
+		"name_en": "Twice the Pride",
+		"name_fr": "Plus dure sera la chute",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "plansandpreparation",
+		"sku": "SWP04",
+		"name_en": "Plans and Preparation",
+		"name_fr": "Planification et préparation",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "appetitefordestruction",
+		"sku": "SWP05",
+		"name_en": "Appetite for Destruction",
+		"name_fr": "Soif de destruction",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "hellothere",
+		"sku": "SWP06",
+		"name_en": "Hello There",
+		"name_fr": "Salut à tous !",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "witchesofdathomir",
+		"sku": "SWP07",
+		"name_en": "Witches of Dathomir",
+		"name_fr": "Sorcières de Dathomir",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "thispartysover",
+		"sku": "SWP08",
+		"name_en": "This Party's Over",
+		"name_fr": "La fête est finie",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "fistfulofcredits",
+		"sku": "SWP09",
+		"name_en": "Fistful of Credits",
+		"name_fr": "Une poignée de crédits",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "jedihunters",
+		"sku": "SWP12",
+		"name_en": "Jedi Hunters",
+		"name_fr": "Chasseurs de Jedi",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "wearebrave",
+		"sku": "SWP15",
+		"name_en": "We Are Brave",
+		"name_fr": "Nous sommes courageux",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "takecover",
+		"sku": "SWP17",
+		"name_en": "Take Cover",
+		"name_fr": "A couvert !",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "dicepack",
+		"sku": "SWP19",
+		"name_en": "Dice Pack",
+		"name_fr": "Set de dés",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "measuringtools",
+		"sku": "SWP20",
+		"name_en": "Measuring Tools",
+		"name_fr": "Outils de Mesure",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "youcannotrun",
+		"sku": "SWP30",
+		"name_en": "You Cannot Run",
+		"name_fr": "Tu ne peux pas fuir",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	},
+	{
+		"xws": "sabotageshowdown",
+		"sku": "SWP45",
+		"name_en": "Sabotage Showdown",
+		"name_fr": "Actes de Sabotage",
+		"name-de": "",
+		"name-pl": "",
+		"name-es": "",
+		"image": ""
+	}
+]
