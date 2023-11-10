@@ -19,7 +19,7 @@ SPT ids have to be unique per type (unit/ability/era/etc).
 
 Before opening a pull request, see the following checklist:
 
-1. Use sensible commit messages. Good: `add Han Solo units`. Bad: `create fang-fighter.json`
+1. Use sensible commit messages. Good: `add Han Solo unit`. Bad: `create han-solo.json`
 1. Ensure there are no merge conflicts with `master` (rebase on top of `master` or merge it into your branch)
 1. Use a sensible PR message, eg `add new era`. PR messages can be the same as commit messages for single-commit PRs.
 
