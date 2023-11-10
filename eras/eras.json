@@ -1,0 +1,42 @@
+[
+  {
+    "xws": "fallofthejedi",
+    "name-en": "Fall Of The Jedi",
+    "name-fr": "",
+    "name-de": "",
+    "name-pl": "",
+    "name-es": "",
+    "icon": "",
+    "order": 1
+  },
+  {
+    "xws": "reignoftheempire",
+    "name-en": "Reign Of The Empire",
+    "name-fr": "",
+    "name-de": "",
+    "name-pl": "",
+    "name-es": "",
+    "icon": "",
+    "order": 2
+  },
+  {
+    "xws": "ageofrebellion",
+    "name-en": "Age Of Rebellion",
+    "name-fr": "",
+    "name-de": "",
+    "name-pl": "",
+    "name-es": "",
+    "icon": "",
+    "order": 3
+  },
+  {
+    "xws": "thenewrepublic",
+    "name-en": "The New Republic",
+    "name-fr": "",
+    "name-de": "",
+    "name-pl": "",
+    "name-es": "",
+    "icon": "",
+    "order": 4
+  }  
+]
