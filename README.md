@@ -1,6 +1,7 @@
 # Shatterpoint Data
 
 An easy-to-use collection of all data from [Star Wars: Shatterpoint](https://www.atomicmassgames.com/shatterpoint/) by [Atomic Mass Games](https://www.atomicmassgames.com/).
+
 Thanks to Dan Smith and the contributors for their work on X-Wing Data 2, which inspired me for this project.
 
 ## SPT ids
