@@ -1,4 +1,5 @@
 {
+  "version": "090123",
   "spt": "212thclonetroopers",
   "name-en": "212th Clone Troopers",
   "name-fr": "Soldats clones de la 212e",
@@ -33,7 +34,9 @@
   "characters": 2,
   "base": 40,
   "artwork": "",
-  "expansion": "swp06",
+  "expansions": [
+    "swp06"
+  ],
   "image-back-en": "",
   "image-back-fr": "",
   "image-back-de": "",
