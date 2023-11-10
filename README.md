@@ -1,4 +1,4 @@
-# Shatterpoint Data 2
+# Shatterpoint Data
 
 An easy-to-use collection of all data from [Star Wars: Shatterpoint](https://www.atomicmassgames.com/shatterpoint/) by [Atomic Mass Games](https://www.atomicmassgames.com/).
 
