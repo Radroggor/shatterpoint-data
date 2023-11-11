@@ -4,18 +4,18 @@ An easy-to-use collection of all data from [Star Wars: Shatterpoint](https://www
 
 Thanks to Dan Smith and the contributors for their work on X-Wing Data 2, which inspired me for this project.
 
-## SWPST ids
+## SPS ids
 
-Every unit, ability, era, etc. has a `swpst` field that contains a unique id (for "Star Wars: Shatterpoint Strike Team Format")
+Every unit, ability, era, etc. has a `sps` field that contains a unique id (for "Shatterpoint Strike Team Format")
 
-New SWPST ids are generated using the following steps:
+New SPS ids are generated using the following steps:
 
 1. Take the English-language name as printed on the card
 1. Lowercase the name
 1. Convert non-ASCII characters to closest ASCII equivalent (to remove umlauts, etc.)
 1. Remove non-alphanumeric characters
 
-SWPST ids have to be unique per type (unit/ability/era/etc).
+SPS ids have to be unique per type (unit/ability/era/etc).
 
 ## Creating a pull request
 
