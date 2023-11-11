@@ -1,6 +1,6 @@
 [
   {
-    "xws": "fallofthejedi",
+    "sps": "fallofthejedi",
     "name-en": "Fall of the Jedi",
     "name-fr": "La chute des Jedi",
     "name-de": "",
@@ -10,7 +10,7 @@
     "order": 1
   },
   {
-    "xws": "reignoftheempire",
+    "sps": "reignoftheempire",
     "name-en": "Reign of the Empire",
     "name-fr": "Le règne de l'Empire",
     "name-de": "",
@@ -20,7 +20,7 @@
     "order": 2
   },
   {
-    "xws": "ageofrebellion",
+    "sps": "ageofrebellion",
     "name-en": "Age of Rebellion",
     "name-fr": "L'âge de la Rébellion",
     "name-de": "",
@@ -30,7 +30,7 @@
     "order": 3
   },
   {
-    "xws": "thenewrepublic",
+    "sps": "thenewrepublic",
     "name-en": "The New Republic",
     "name-fr": "La Nouvelle République",
     "name-de": "",
